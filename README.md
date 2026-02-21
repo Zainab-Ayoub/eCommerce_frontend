@@ -27,6 +27,9 @@ Opens at http://localhost:5173
 - `Loader`
 - `Message` — Info/error/success alerts
 
+## Screenshot
+<img width="1207" height="830" alt="Screenshot 2026-02-21 204530" src="https://github.com/user-attachments/assets/487b5312-9ae5-4d9c-9e52-e2f11de8e650" />
+
 ## Features
 - Add to cart, remove, update quantity
 - Cart persisted in localStorage
